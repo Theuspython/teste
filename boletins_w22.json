@@ -1,0 +1,66 @@
+[
+  {
+    "meta": {
+      "generated_at": "2026-06-01T13:44:11.182Z",
+      "app": "Registro ACE",
+      "version": "4.0.0-clean",
+      "user": {
+        "id": 1,
+        "username": "diane.alves"
+      },
+      "hash": "5848c9cd"
+    },
+    "registro": {
+      "data_referencia": "2026-06-01",
+      "bairro": "ACAMP. DNER RG-72",
+      "ace": "Diane Alves",
+      "ciclo": "3º",
+      "atividade": "4-T- Tratamento",
+      "zona": "Urbana",
+      "categoria": "Bairro",
+      "semana_epidemiologica": 22,
+      "totais": {
+        "quarteiroes_concluidos": 1,
+        "residencias": 1,
+        "comercios": 0,
+        "tbs": 0,
+        "outros": 0,
+        "tratamento_focal": 0,
+        "quant_bti": 0,
+        "dep_tratados": 0,
+        "dep_eliminados": 0,
+        "casas_fechadas": 1,
+        "casas_recuperadas": 0
+      },
+      "visitas": [
+        {
+          "quarteirao": "13",
+          "rua": "Rua Castro Alves",
+          "numero": "25",
+          "tipo": "Residência",
+          "tf": "❌",
+          "larvicida": "Nenhum",
+          "qtdLarv": 0,
+          "depTrat": 0,
+          "depElim": 0,
+          "depLarvas": 0,
+          "tipoVisita": "Normal",
+          "obs": "",
+          "fechado": false
+        }
+      ]
+    },
+    "__path": "boletins_w22.json",
+    "__imoveis": [
+      {
+        "data": "2026-06-01",
+        "bairro": "ACAMP. DNER RG-72",
+        "quarteirao": "13",
+        "rua": "Rua Castro Alves",
+        "numero": "100",
+        "tipo": "Residência",
+        "fechado": true
+      }
+    ]
+  }
+]
