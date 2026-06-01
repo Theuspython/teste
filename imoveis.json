@@ -8314,5 +8314,14 @@
     "tipo": "Residência",
     "data": "2026-05-28",
     "fechado": true
+  },
+  {
+    "bairro": "ACAMP. DNER RG-72",
+    "quarteirao": "13",
+    "rua": "Rua Castro Alves",
+    "numero": "100",
+    "tipo": "Residência",
+    "data": "2026-06-01",
+    "fechado": true
   }
 ]
