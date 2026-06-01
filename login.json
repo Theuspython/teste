@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "full_name": "Diane Alves",
+    "username": "diane.alves",
+    "password": "12345",
+    "temporary": false,
+    "created_at": "2025-10-20T02:56:00.000Z"
+  },
+  {
+    "id": 2,
+    "full_name": "Ronaldo Adriano",
+    "username": "ronaldo",
+    "password": "1234",
+    "temporary": false,
+    "created_at": "2025-10-20T11:45:00.000Z"
+  },
+  {
+    "id": 3,
+    "full_name": "Matheus Ribeiro Ramalho",
+    "username": "theu.ribeiro",
+    "password": "1234",
+    "temporary": false,
+    "created_at": "2025-10-20T11:54:00.000Z"
+  },
+  {
+    "id": 4,
+    "full_name": "Sheila Micaela",
+    "username": "sheila",
+    "password": "1234",
+    "temporary": false,
+    "created_at": "2025-10-20T18:42:00.000Z"
+  },
+  {
+    "id": 5,
+    "full_name": "Matheus Moreira",
+    "username": "theu.moreira",
+    "password": "1234",
+    "temporary": false,
+    "created_at": "2025-10-23T18:20:00.000Z"
+  },
+  {
+    "id": 6,
+    "full_name": "Maria das Graças",
+    "username": "potira",
+    "password": "1234",
+    "temporary": false,
+    "created_at": "2025-10-25T16:48:00.000Z"
+  },
+  {
+    "id": 7,
+    "full_name": "Sandro Aparecido",
+    "username": "sandrinho",
+    "password": "1234",
+    "temporary": false,
+    "created_at": "2025-11-03T15:49:00.000Z"
+  },
+  {
+    "id": 8,
+    "full_name": "Moab Iderlan",
+    "username": "moab",
+    "password": "1234",
+    "temporary": false,
+    "created_at": "2025-11-03T15:50:00.000Z"
+  },
+  {
+    "id": 9,
+    "full_name": "Scherla Franciso",
+    "username": "scherla",
+    "password": "1234",
+    "temporary": false,
+    "created_at": "2025-11-03T15:51:00.000Z"
+  },
+  {
+    "id": 10,
+    "full_name": "Administrador",
+    "username": "admin",
+    "password": "1234",
+    "temporary": false,
+    "created_at": "2025-11-05T20:58:00.000Z"
+  },
+  {
+    "id": 11,
+    "full_name": "Marcos Lopes",
+    "username": "marcos",
+    "password": "1234",
+    "temporary": false,
+    "created_at": "2025-12-01T19:29:00.000Z"
+  }
+]
