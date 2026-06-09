@@ -1,0 +1,86 @@
+[
+  {
+    "meta": {
+      "generated_at": "2026-06-09T18:50:00.613Z",
+      "app": "Registro ACE",
+      "version": "4.0.0-clean",
+      "user": {
+        "id": 1,
+        "username": "diane.alves"
+      },
+      "hash": "9052b45c"
+    },
+    "registro": {
+      "data_referencia": "2026-06-09",
+      "bairro": "ACAMP. DNER RG-72",
+      "ace": "Diane Alves",
+      "ciclo": "3º",
+      "atividade": "4-T- Tratamento",
+      "zona": "Urbana",
+      "categoria": "Bairro",
+      "semana_epidemiologica": 23,
+      "totais": {
+        "quarteiroes_concluidos": 0,
+        "residencias": 3,
+        "comercios": 0,
+        "tbs": 0,
+        "outros": 0,
+        "tratamento_focal": 2,
+        "quant_bti": 3,
+        "dep_tratados": 4,
+        "dep_eliminados": 15,
+        "casas_fechadas": 0,
+        "casas_recuperadas": 0
+      },
+      "visitas": [
+        {
+          "quarteirao": "10",
+          "rua": "Rua Castro Alves",
+          "numero": "450",
+          "tipo": "Residência",
+          "tf": "✔️",
+          "larvicida": "BTI",
+          "qtdLarv": 2,
+          "depTrat": 2,
+          "depElim": 0,
+          "depLarvas": 0,
+          "tipoVisita": "Normal",
+          "obs": "",
+          "fechado": false
+        },
+        {
+          "quarteirao": "10",
+          "rua": "Rua Castro Alves",
+          "numero": "550",
+          "tipo": "Residência",
+          "tf": "❌",
+          "larvicida": "Nenhum",
+          "qtdLarv": 0,
+          "depTrat": 0,
+          "depElim": 0,
+          "depLarvas": 0,
+          "tipoVisita": "Normal",
+          "obs": "",
+          "fechado": false
+        },
+        {
+          "quarteirao": "10",
+          "rua": "Rua Castro Alves",
+          "numero": "560",
+          "tipo": "Residência",
+          "tf": "✔️",
+          "larvicida": "BTI",
+          "qtdLarv": 1,
+          "depTrat": 2,
+          "depElim": 15,
+          "depLarvas": 0,
+          "tipoVisita": "Normal",
+          "obs": "",
+          "fechado": false
+        }
+      ]
+    },
+    "__path": "boletins_w23.json",
+    "__imoveis": []
+  }
+]
